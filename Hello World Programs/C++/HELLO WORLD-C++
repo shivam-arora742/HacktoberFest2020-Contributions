@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+
+class call{
+public:
+void display(){
+cout<<"HELLO WORL!!!!";
+}
+}
+int main(){
+call c;
+c.display();
+return 0;
+}
